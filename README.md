@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/prasetyanurangga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prasetyanurangga" height="30" width="40" /></a>
-<a href="https://twitter.com/fortyninetail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fortyninetail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angga-nur-prasetya-936687180" height="30" width="40" /></a>
-<a href="https://instagram.com/angganurprasetya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="angganurprasetya" height="30" width="40" /></a>
+<a href="https://dev.to/prasetyanurangga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prasetyanurangga" height="30" width="40" /></a>
+<a href="https://twitter.com/fortyninetail" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fortyninetail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angga-nur-prasetya-936687180" height="30" width="40" /></a>
+<a href="https://instagram.com/angganurprasetya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="angganurprasetya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
