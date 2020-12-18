@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently freelancing on [Fiverr](https://www.fiverr.com/share/mYpyGx)
 
-- 👨‍💻 All of my projects are available at [https://github.com/prasetyanurangga](https://github.com/prasetyanurangga)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prasetyanurangga.github.io)
 
 - 💬 Ask me about **kotlin, android developer and Flutter**
 
