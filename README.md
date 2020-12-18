@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/prasetyanurangga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prasetyanurangga" height="30" width="40" /></a>
-<a href="https://twitter.com/twentytwotail" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="fortyninetail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="40" /></a>
-<a href="https://instagram.com/angganurprasetya" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="angganurprasetya" height="40" width="40" /></a>
+- <a href="https://dev.to/prasetyanurangga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prasetyanurangga" height="30" width="40" /></a>
+- <a href="https://twitter.com/twentytwotail" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="fortyninetail" height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="40" /></a>
+- <a href="https://instagram.com/angganurprasetya" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="angganurprasetya" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
