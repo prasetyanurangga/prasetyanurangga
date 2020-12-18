@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Flutter**
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/share/mYpyGx)
+- 🔭 I’m currently freelancing on [Fiverr](https://www.fiverr.com/share/mYpyGx)
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasetyanurangga](https://github.com/prasetyanurangga)
 
