@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **Kotlin and Flutter**
 
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/share/mYpyGx)
+
 - 👨‍💻 All of my projects are available at [https://github.com/prasetyanurangga](https://github.com/prasetyanurangga)
 
-- 💬 Ask me about **kotlin, android developer and golang**
+- 💬 Ask me about **kotlin, android developer and Flutter**
 
 - 📫 How to reach me **angganurprasetya4@gmail.com**
 
