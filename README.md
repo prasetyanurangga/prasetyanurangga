@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Flutter**
 
-- 🔭 I’m currently freelancing on [Fiverr](https://www.fiverr.com/share/mYpyGx)
+- 🔭 I’m currently freelancing on [Fiverr](https://www.fiverr.com/share/mYpyGx) and [SociaBuzz](https://www.sociabuzz.com/anggaprasetya/s/saya-akan-membuat-aplikasi-mobile-untuk-anda)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prasetyanurangga.github.io)
 
