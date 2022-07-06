@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **angganurprasetya4@gmail.com**
 
-- ☕ Want to support me? [Buy Me Coffe](https://ko-fi.com/prasetyanurangga)
+- ☕ Want to support me? [Buy Me Coffe](https://ko-fi.com/prasetyanurangga) | [Nih Buat Jajan]([Buy Me Coffe](https://ko-fi.com/prasetyanurangga))
 
 <h3 align="left">Connect with me:</h3>
 <ul>
