@@ -20,7 +20,3 @@
 <li> <a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="40" /></a> </li>
 <li> <a href="https://instagram.com/angganurprasetya" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="angganurprasetya" height="40" width="40" /></a> </li>
 </ul>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasetyanurangga&show_icons=true&locale=en" alt="prasetyanurangga" />
-
