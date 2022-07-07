@@ -15,5 +15,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
-<li> <a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="40" /> Angga Nur Prasetya </a> </li>
+<li> <a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img align="center" src="https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/linkedin.png" height="40" /> Angga Nur Prasetya </a> </li>
 </ul>
