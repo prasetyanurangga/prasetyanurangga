@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently freelancing on [Fiverr](https://www.fiverr.com/share/mYpyGx) and [SociaBuzz](https://www.sociabuzz.com/anggaprasetya/s/saya-akan-membuat-aplikasi-mobile-untuk-anda)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prasetyanurangga.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://angganurprasetya.dev)
 
 - 💬 Ask me about **Mobile and Web Development**
 
