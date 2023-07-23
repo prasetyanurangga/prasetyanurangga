@@ -1,4 +1,4 @@
-![Banner](https://github.com/prasetyanurangga/prasetyanurangga/blob/master/banner.png)
+![Banner](https://github.com/prasetyanurangga/prasetyanurangga/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Angga</h1>
 <h3 align="center">A passionate mobile and web developer from Indonesia</h3>
