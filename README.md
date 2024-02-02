@@ -19,3 +19,6 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 <ul>
 <li> <a href="https://linkedin.com/in/angga-nur-prasetya-936687180" target="_blank"><img  src="https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/linkedin.png" height="15" /> Angga Nur Prasetya </a> </li>
 </ul>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
