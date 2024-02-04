@@ -21,7 +21,7 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
@@ -30,6 +30,8 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -64,17 +66,17 @@ Sunday                   243 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 17 mins       ███████████████████████░░   92.31 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Vue.js                   4 hrs 23 mins       ██████████████████░░░░░░░   70.52 % 
+PHP                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +96,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2024 18:39:27 UTC
+ Last Updated on 04/02/2024 18:40:20 UTC
 <!--END_SECTION:waka-->
