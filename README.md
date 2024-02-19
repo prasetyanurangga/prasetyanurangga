@@ -21,9 +21,9 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
 
@@ -66,17 +66,17 @@ Sunday                   244 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
-JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-PHP                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Dart                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Text                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Vue.js                   5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
+JavaScript               2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+PHP                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Dart                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 18:40:15 UTC
+ Last Updated on 19/02/2024 18:39:19 UTC
 <!--END_SECTION:waka-->
