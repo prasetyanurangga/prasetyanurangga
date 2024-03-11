@@ -21,7 +21,7 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,17 +66,17 @@ Sunday                   244 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   35.53 % 
-Vue.js                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-JavaScript               6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Dart                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Blade Template           51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Vue.js                   9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
+PHP                      7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+JavaScript               4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Blade Template           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  24 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      24 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 18:41:06 UTC
+ Last Updated on 11/03/2024 18:39:31 UTC
 <!--END_SECTION:waka-->
