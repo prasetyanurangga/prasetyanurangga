@@ -21,7 +21,7 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,17 +66,17 @@ Sunday                   244 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Vue.js                   7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
-JavaScript               4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Blade Template           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+PHP                      7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+Vue.js                   5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+JavaScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Blade Template           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Dart                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2024 18:39:32 UTC
+ Last Updated on 13/03/2024 18:39:27 UTC
 <!--END_SECTION:waka-->
