@@ -21,7 +21,7 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,17 +66,17 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
-Vue.js                   2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Python                   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               5 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.34 % 
+Vue.js                   2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Python                   2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:39:34 UTC
+ Last Updated on 24/03/2024 18:40:40 UTC
 <!--END_SECTION:waka-->
