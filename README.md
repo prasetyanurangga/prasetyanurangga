@@ -21,8 +21,6 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.7%20million%20lines%20of%20code-blue)
@@ -37,42 +35,6 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
  > 
 > 🔑 61 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-🌆 Daytime                524 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                676 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
-🌙 Night                  726 commits         ████████░░░░░░░░░░░░░░░░░   33.78 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  335 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 393 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Friday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Sunday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,5 +52,5 @@ Swift                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 19:01:36 UTC
+ Last Updated on 11/04/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
