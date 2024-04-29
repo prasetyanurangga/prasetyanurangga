@@ -21,9 +21,9 @@ It's me, Angga. You've probably never heard of me. And I've never thought of wri
 </ul>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.7%20million%20lines%20of%20code-blue)
 
@@ -64,17 +64,15 @@ Sunday                   255 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     51 mins             █████████████████░░░░░░░░   69.40 % 
-Dart                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               21 mins             ███████████████████░░░░░░   77.96 % 
+Bash                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Dart                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +92,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prasetyanurangga/prasetyanurangga/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2024 18:40:32 UTC
+ Last Updated on 29/04/2024 18:40:32 UTC
 <!--END_SECTION:waka-->
