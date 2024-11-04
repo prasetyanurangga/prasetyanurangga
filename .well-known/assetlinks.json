@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "smartkorlantas",
+    "package_name": "com.example.mobile_cityzen",
+    "sha256_cert_fingerprints":
+    ["5F:09:DB:45:B8:92:CF:04:66:1B:96:AF:2C:DA:DD:5A:2C:44:3C:25"]
+  }
+}]
